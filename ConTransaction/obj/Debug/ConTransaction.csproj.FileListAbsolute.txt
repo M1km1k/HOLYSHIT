@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\BARON GEISLER\ConTransaction\bin\Debug\ConTransaction.exe.config
+C:\Users\Admin\Desktop\BARON GEISLER\ConTransaction\bin\Debug\ConTransaction.exe
+C:\Users\Admin\Desktop\BARON GEISLER\ConTransaction\bin\Debug\ConTransaction.pdb
+C:\Users\Admin\Desktop\BARON GEISLER\ConTransaction\obj\Debug\ConTransaction.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\BARON GEISLER\ConTransaction\obj\Debug\ConTransaction.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\BARON GEISLER\ConTransaction\obj\Debug\ConTransaction.exe
+C:\Users\Admin\Desktop\BARON GEISLER\ConTransaction\obj\Debug\ConTransaction.pdb
